@@ -1,0 +1,14 @@
+body {
+    background-image: linear-gradient(
+        to bottom right, lightblue,
+        pink
+    );
+}
+.nav-item a {
+    color: white;
+    transition: .5 ease-in-out;
+}
+.nav-item a:hover {
+    color: #ed6161;
+    font-weight: 400;
+}
